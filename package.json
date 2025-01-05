@@ -1,0 +1,23 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/VMordvinova/personal-website#readme",
+  "bugs": {
+    "url": "https://github.com/VMordvinova/personal-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMordvinova/personal-website.git"
+  },
+  "license": "ISC",
+  "author": "Veronica Mordvinova",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
